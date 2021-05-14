@@ -1,0 +1,11 @@
+{
+    "name": "Canary Swap Token",
+    "type": "BEP20",
+    "symbol": "CANA",
+    "decimals": 18,
+    "website": "https://www.canaryswap.finance/",
+    "description": "CanarySwap is an incredibly promising project, goal achieving success on the Binance Smart Chain. Our aim is to maximize your investment with yield farming mechanism that provides sustainable and profitable yields combined with transparent security features.",
+    "explorer": "https://bscscan.com/token/0x2bD4c517B0F8569A151cba955B5bA50286B49483",
+    "status": "active",
+    "id": "0x2bD4c517B0F8569A151cba955B5bA50286B49483"
+}
